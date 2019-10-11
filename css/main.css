@@ -1,5 +1,5 @@
 .heading{
-  color:blue
+  color:#81f0fc
 }
 .school{
   color:grey
@@ -7,3 +7,9 @@
 body{
   background-color:lavender
 }
+p:hover{
+  color:#ffd9f4
+}
+a:hover{
+  size:35px
+}    
