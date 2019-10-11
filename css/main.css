@@ -16,4 +16,7 @@ a:hover{
 p{
   color:black;
   size:57px;
-}  
+}
+a:visited{
+  color:teal
+}    
