@@ -1,5 +1,5 @@
 .heading{
-  color:#81f0fc
+  color:
 }
 .school{
   color:grey
@@ -12,4 +12,8 @@ p:hover{
 }
 a:hover{
   size:35px
-}    
+}
+p{
+  color:black;
+  size:57px;
+}  
