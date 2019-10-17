@@ -4,6 +4,7 @@
 .school{
   color:grey;
   size:45px;
+  border:7px groove purple;
 }
 body{
   background-color:lavender
