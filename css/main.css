@@ -4,7 +4,7 @@
 }
 .school{
   color:grey;
-  size:50px;
+  size:55px;
   border:7px dotted purple;
 }
 body{
@@ -23,6 +23,6 @@ p{
 a:visited{
   color:teal
 } 
-p:active{
+p:hover{
   color:white;
 }  
