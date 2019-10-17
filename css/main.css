@@ -2,7 +2,8 @@
   color:#acacc2
 }
 .school{
-  color:grey
+  color:grey;
+  size:45px;
 }
 body{
   background-color:lavender
@@ -11,11 +12,11 @@ p:hover{
   color:#ffd9f4
 }
 a:hover{
-  size:35px
+  size:65px
 }
 p{
   color:black;
-  size:57px;
+  size:60px;
 }
 a:visited{
   color:teal
