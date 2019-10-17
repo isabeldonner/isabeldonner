@@ -10,7 +10,7 @@
 body{
   background-color:lavender
 }
-p:active{
+.heading:active{
   color:#44c1c9;
 }
 a:hover{
@@ -22,4 +22,7 @@ p{
 }
 a:visited{
   color:teal
-}    
+} 
+p:active{
+  color:white;
+}  
