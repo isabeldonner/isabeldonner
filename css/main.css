@@ -1,10 +1,10 @@
 .heading{
   color:#acacc2;
-  size:70px;
+  size:90px;
 }
 .school{
   color:grey;
-  size:55px;
+  size:68px;
   border:7px dotted purple;
 }
 body{
@@ -20,7 +20,7 @@ a:hover{
 }
 p{
   color:black;
-  size:60px;
+  size:70px;
 }
 a:visited{
   color:teal
