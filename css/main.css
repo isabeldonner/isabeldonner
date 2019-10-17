@@ -1,5 +1,6 @@
 .heading{
-  color:#acacc2
+  color:#acacc2;
+  size:70px;
 }
 .school{
   color:grey;
@@ -9,8 +10,8 @@
 body{
   background-color:lavender
 }
-p:hover{
-  color:#b3f092
+p:active{
+  color:#44c1c9;
 }
 a:hover{
   size:65px
