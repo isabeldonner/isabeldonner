@@ -14,7 +14,9 @@ body{
   color:#44c1c9;
 }
 a:hover{
-  size:65px
+  size:65px;
+  background-color:lavender;
+  color:white;
 }
 p{
   color:black;
