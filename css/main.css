@@ -5,10 +5,11 @@
 .school{
   color:grey;
   size:68px;
-  border:7px dotted purple;
+  
 }
 body{
-  background-color:lavender
+  background-color:lavender;
+  border: 7px solid black;
 }
 .heading:active{
   color:#44c1c9;
@@ -26,3 +27,6 @@ a:visited{
 p:hover{
   color:white;
 }  
+h6{
+  font-size:68px
+}    
