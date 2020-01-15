@@ -1,0 +1,18 @@
+<DOCTYPE! html>
+<html>
+<head>
+  <title>javascript tests</title>
+  <script src="myScripts.js"></script>
+  <noscript>javascript not supported</noscript>
+  <style>
+    body{
+      background-color:lavender;
+    }
+  </style>
+</head>
+<body>
+    
+</body>
+</html>
+
+  
