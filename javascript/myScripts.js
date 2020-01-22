@@ -1,11 +1,10 @@
-var j;
-for(j=0; j<8; j++){
-  var ans=Math.sqrt(2,j);
-  document.write(ans+"<br>");
+
+
+function myLoop(){
+  var end=document.getElementById("end").value;
+  var start=document.getElementById("start").value;
+for(var i=start; i<=end; i++){
+  document.write("<br>" +i+"</br>")
 }
-var ind=0;
-while(ind<8){
-  var ans=Math.random();
-  document.write(ans+"<br>");
-  ind++
+ 
 }
